@@ -1,0 +1,71 @@
+body {
+   margin: 3.125em;
+}
+
+.first-row {
+    display: flex;
+    justify-content: space-between;
+    height: 100%vh;
+    align-items: center;
+}
+
+.second-row {
+    display: flex;
+    justify-content: space-between;
+    height: 100%vh;
+    align-items: center;
+    margin-top: 2.5em;
+}
+
+.third-row {
+    display: flex;
+    justify-content: space-between;
+    height: 100%vh;
+    align-items: center;
+    margin-top: 2.5em;
+}
+
+#one {
+    height: 37.5em;
+    width: 24.934em;
+}
+
+#two {
+    height: 37.5em;
+    width: 25.007em;
+}
+
+#three {
+    height: 37.5em;
+    width: 25em;
+}
+
+#four {
+    height: 37.5em;
+    width: 24.934em;
+}
+
+#five {
+    height: 37.5em;
+    width: 25em;
+}
+
+#six {
+    height: 37.5em;
+    width: 25.002em;
+}
+
+#seven {
+    height: 37.5em;
+    width: 25.002em;
+}
+
+#eight {
+    height: 37.5em;
+    width: 24.913em;
+}
+
+#nine {
+    height: 37.5em;
+    width: 25em;
+}
